@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Hash(java.io.PrintWriter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hash\r\n
+comment1.params=
+comment1.target=int\ getCollisionCount()
+comment2.params=
+comment2.target=ObjectList[]\ getHashTable()
+comment2.text=\r\n\ getHashTable()\ -\ function\ that\ constructs\ a\ hash\ table\ using\ a\ bucket\ approach\ to\ resolve\ collisions.\ After\r\n\ hash\ table\ is\ constructed\ it\ is\ returned\ to\ calling\ method\ for\ use.\r\n\ \r\n\ @param\ -\ none\r\n\ @\ return\ -\ ObjectList\ hashTable\r\n
+comment3.params=
+comment3.target=void\ printHashTable()
+comment3.text=\r\n\ printHasTable()\ -\ prints\ hashTable\ to\ user\ once\ it\ has\ been\ populated.\r\n
+comment4.params=arg\ hash
+comment4.target=boolean\ inHashTable(java.lang.String,\ ObjectList[])
+comment4.text=\r\n\ inHashTable()\ -\ boolean\ function\ that\ determines\ whether\ String\ parameter\ arg\ is\ in\ the\ ObjectList\ \r\n\ parameter\ hash.\r\n\ \r\n\ @param\ -\ String\ arg,\ ObjectList\ hash[]\r\n\ @return\ -\ true\ if\ string\ is\ found\ in\ parameter\ hash,\ otherwise\ false.\r\n
+numComments=5

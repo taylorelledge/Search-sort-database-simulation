@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Query(java.io.PrintWriter)
+comment0.text=\r\n\ constructor\ for\ objects\ of\ class\ Query\r\n
+comment1.params=tree\ arg
+comment1.target=void\ search(ObjectBinaryTree,\ Word)
+comment1.text=\r\n\ \ search()\ -\ takes\ as\ arguments\ a\ binary\ tree\ from\ the\ calling\ class\ and\ an\ object\ from\ the\ calling\ class.\r\n\ \ A\ search\ is\ performed\ and\ based\ on\ the\ state\ of\ the\ binary\ tree\ node\ returned\ one\ of\ two\ outputs\ are\ made.\r\n\ \ \r\n\ \ @param\ -\ ObjectBinaryTree\ tree,\ Word\ arg\r\n\ \ @return\ -\ none\r\n
+numComments=2

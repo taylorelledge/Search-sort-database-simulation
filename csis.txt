@@ -1,0 +1,1105 @@
+[0] = every with 
+[1] = null
+[2] = null
+[3] = its 
+[4] = so 
+[5] = had to 
+[6] = null
+[7] = now 
+[8] = null
+[9] = null
+[10] = null
+[11] = and 
+[12] = after 
+[13] = have which 
+[14] = null
+[15] = null
+[16] = null
+[17] = all 
+[18] = there 
+[19] = null
+[20] = null
+[21] = null
+[22] = their 
+[23] = a 
+[24] = null
+[25] = because the 
+[26] = that 
+[27] = null
+[28] = of were 
+[29] = from 
+[30] = in 
+[31] = for 
+[32] = null
+[33] = null
+[34] = null
+[35] = is was 
+[36] = it on 
+Number of collisions: 0
+My hash function uses a lexicographic approach to find a number for each word, the word is then mapped 
+to an array location via a %37 operation.
+1 Four score and seven years ago our fathers brought forth, upon this  
+2 continent, a new nation, conceived in liberty, and dedicated to the
+3 proposition that all men are created equal. Now we are engaged in a 
+4 great civil war, testing whether that nation, or any nation, so 
+5 conceived, and so dedicated, can long endure. We are met here on a 
+6 great battlefield of that war. We have come to dedicate a portion of 
+7 it as a final resting place for those who here gave their lives that  
+8 that nation might live. It is altogether fitting and proper that we 
+9 should do this. But in a larger sense we can not dedicate - we can not 
+10 consecrate - we can not hallow this ground. The brave men, living and  
+11 dead, who struggled here, have consecrated it far above our poor power 
+12 to add or detract. The world will little note, nor long remember, what 
+13 we say here, but can never forget what they did here. It is for us, the  
+14 living, rather to be dedicated here to the unfinished work which they 
+15 have, thus far, so nobly carried on. It is rather for us to be here 
+16 dedicated to the great task remaining before us that from these honored 
+17 dead we take increased devotion to that cause for which they here gave 
+18 the last full measure of devotion - that we here highly resolve that  
+19 these dead shall not have died in vain; that this nation shall have a 
+20 new birth of freedom; and that this government of the people, by the 
+21 people, for the people, shall not perish from the earth.
+The word - occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 13
+
+
+Line: 10 Line Position: 2
+
+
+Line: 18 Line Position: 7
+
+
+The word above occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 9
+
+
+The word add occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 2
+
+
+The word ago occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 6
+
+
+The word altogether occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 8 Line Position: 7
+
+
+The word any occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 9
+
+
+The word are occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 5
+
+
+Line: 3 Line Position: 10
+
+
+Line: 5 Line Position: 9
+
+
+The word as occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 2
+
+
+The word battlefield occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 6 Line Position: 2
+
+
+The word be occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 14 Line Position: 4
+
+
+Line: 15 Line Position: 14
+
+
+The word before occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 16 Line Position: 7
+
+
+The word birth occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 20 Line Position: 2
+
+
+The word brave occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 10 Line Position: 10
+
+
+The word brought occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 9
+
+
+The word but occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 4
+
+
+Line: 13 Line Position: 4
+
+
+The word by occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 20 Line Position: 12
+
+
+The word can occurs 5 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 5 Line Position: 5
+
+
+Line: 9 Line Position: 10
+
+
+Line: 9 Line Position: 15
+
+
+Line: 10 Line Position: 4
+
+
+Line: 13 Line Position: 5
+
+
+The word carried occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 15 Line Position: 6
+
+
+The word cause occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 17 Line Position: 8
+
+
+The word civil occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 2
+
+
+The word come occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 6 Line Position: 8
+
+
+The word conceived occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 2 Line Position: 5
+
+
+Line: 5 Line Position: 1
+
+
+The word consecrate occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 10 Line Position: 1
+
+
+The word consecrated occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 6
+
+
+The word continent occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 2 Line Position: 1
+
+
+The word created occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 6
+
+
+The word dead occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 1
+
+
+Line: 17 Line Position: 1
+
+
+Line: 19 Line Position: 2
+
+
+The word dedicate occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 6 Line Position: 10
+
+
+Line: 9 Line Position: 12
+
+
+The word dedicated occurs 4 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 2 Line Position: 9
+
+
+Line: 5 Line Position: 4
+
+
+Line: 14 Line Position: 5
+
+
+Line: 16 Line Position: 1
+
+
+The word detract occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 4
+
+
+The word devotion occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 17 Line Position: 5
+
+
+Line: 18 Line Position: 6
+
+
+The word did occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 10
+
+
+The word died occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 19 Line Position: 6
+
+
+The word do occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 2
+
+
+The word earth occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 21 Line Position: 10
+
+
+The word endure occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 5 Line Position: 7
+
+
+The word engaged occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 11
+
+
+The word equal occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 7
+
+
+The word far occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 8
+
+
+Line: 15 Line Position: 3
+
+
+The word fathers occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 8
+
+
+The word final occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 4
+
+
+The word fitting occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 8 Line Position: 8
+
+
+The word forget occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 7
+
+
+The word forth occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 10
+
+
+The word four occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 1
+
+
+The word freedom occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 20 Line Position: 4
+
+
+The word full occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 18 Line Position: 3
+
+
+The word gave occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 11
+
+
+Line: 17 Line Position: 13
+
+
+The word government occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 20 Line Position: 8
+
+
+The word great occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 1
+
+
+Line: 6 Line Position: 1
+
+
+Line: 16 Line Position: 4
+
+
+The word ground occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 10 Line Position: 8
+
+
+The word hallow occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 10 Line Position: 6
+
+
+The word here occurs 9 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 5 Line Position: 11
+
+
+Line: 7 Line Position: 10
+
+
+Line: 11 Line Position: 4
+
+
+Line: 13 Line Position: 3
+
+
+Line: 13 Line Position: 11
+
+
+Line: 14 Line Position: 6
+
+
+Line: 15 Line Position: 15
+
+
+Line: 17 Line Position: 12
+
+
+Line: 18 Line Position: 10
+
+
+The word highly occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 18 Line Position: 11
+
+
+The word honored occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 16 Line Position: 12
+
+
+The word increased occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 17 Line Position: 4
+
+
+The word it occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 8 Line Position: 5
+
+
+Line: 13 Line Position: 12
+
+
+Line: 15 Line Position: 8
+
+
+The word larger occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 7
+
+
+The word last occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 18 Line Position: 2
+
+
+The word liberty occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 2 Line Position: 7
+
+
+The word little occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 8
+
+
+The word live occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 8 Line Position: 4
+
+
+The word lives occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 13
+
+
+The word living occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 10 Line Position: 12
+
+
+Line: 14 Line Position: 1
+
+
+The word long occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 5 Line Position: 6
+
+
+Line: 12 Line Position: 11
+
+
+The word measure occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 18 Line Position: 4
+
+
+The word men occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 4
+
+
+Line: 10 Line Position: 11
+
+
+The word met occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 5 Line Position: 10
+
+
+The word might occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 8 Line Position: 3
+
+
+The word nation occurs 5 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 2 Line Position: 4
+
+
+Line: 4 Line Position: 7
+
+
+Line: 4 Line Position: 10
+
+
+Line: 8 Line Position: 2
+
+
+Line: 19 Line Position: 11
+
+
+The word never occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 6
+
+
+The word new occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 2 Line Position: 3
+
+
+Line: 20 Line Position: 1
+
+
+The word nobly occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 15 Line Position: 5
+
+
+The word nor occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 10
+
+
+The word not occurs 5 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 11
+
+
+Line: 9 Line Position: 16
+
+
+Line: 10 Line Position: 5
+
+
+Line: 19 Line Position: 4
+
+
+Line: 21 Line Position: 6
+
+
+The word note occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 9
+
+
+The word now occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 8
+
+
+The word or occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 8
+
+
+Line: 12 Line Position: 3
+
+
+The word our occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 7
+
+
+Line: 11 Line Position: 10
+
+
+The word people occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 20 Line Position: 11
+
+
+Line: 21 Line Position: 1
+
+
+Line: 21 Line Position: 4
+
+
+The word perish occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 21 Line Position: 7
+
+
+The word place occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 6
+
+
+The word poor occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 11
+
+
+The word portion occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 6 Line Position: 12
+
+
+The word power occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 12
+
+
+The word proper occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 8 Line Position: 10
+
+
+The word proposition occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 1
+
+
+The word rather occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 14 Line Position: 2
+
+
+Line: 15 Line Position: 10
+
+
+The word remaining occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 16 Line Position: 6
+
+
+The word remember occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 12
+
+
+The word resolve occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 18 Line Position: 12
+
+
+The word resting occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 5
+
+
+The word say occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 2
+
+
+The word score occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 2
+
+
+The word sense occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 8
+
+
+The word seven occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 4
+
+
+The word shall occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 19 Line Position: 3
+
+
+Line: 19 Line Position: 12
+
+
+Line: 21 Line Position: 5
+
+
+The word should occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 9 Line Position: 1
+
+
+The word struggled occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 11 Line Position: 3
+
+
+The word take occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 17 Line Position: 3
+
+
+The word task occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 16 Line Position: 5
+
+
+The word testing occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 4
+
+
+The word the occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 10 Line Position: 9
+
+
+Line: 12 Line Position: 5
+
+
+The word these occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 16 Line Position: 11
+
+
+Line: 19 Line Position: 1
+
+
+The word they occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 9
+
+
+Line: 14 Line Position: 12
+
+
+Line: 17 Line Position: 11
+
+
+The word this occurs 5 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 12
+
+
+Line: 9 Line Position: 3
+
+
+Line: 10 Line Position: 7
+
+
+Line: 19 Line Position: 10
+
+
+Line: 20 Line Position: 7
+
+
+The word those occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 8
+
+
+The word thus occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 15 Line Position: 2
+
+
+The word unfinished occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 14 Line Position: 9
+
+
+The word upon occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 11
+
+
+The word us occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 15
+
+
+Line: 15 Line Position: 12
+
+
+Line: 16 Line Position: 8
+
+
+The word vain occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 19 Line Position: 8
+
+
+The word war occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 3
+
+
+Line: 6 Line Position: 5
+
+
+The word we occurs 10 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 3 Line Position: 9
+
+
+Line: 5 Line Position: 8
+
+
+Line: 6 Line Position: 6
+
+
+Line: 8 Line Position: 12
+
+
+Line: 9 Line Position: 9
+
+
+Line: 9 Line Position: 14
+
+
+Line: 10 Line Position: 3
+
+
+Line: 13 Line Position: 1
+
+
+Line: 17 Line Position: 2
+
+
+Line: 18 Line Position: 9
+
+
+The word what occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 13
+
+
+Line: 13 Line Position: 8
+
+
+The word whether occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 5
+
+
+The word who occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 9
+
+
+Line: 11 Line Position: 2
+
+
+The word will occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 7
+
+
+The word work occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 14 Line Position: 10
+
+
+The word world occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 12 Line Position: 6
+
+
+The word years occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 1 Line Position: 5
+
+
+
+Please input the word you would like to search for.
+The word dedicate occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 6 Line Position: 10
+
+
+Line: 9 Line Position: 12
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+The word devotion occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 17 Line Position: 5
+
+
+Line: 18 Line Position: 6
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+The word gave occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 7 Line Position: 11
+
+
+Line: 17 Line Position: 13
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+The word people occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 20 Line Position: 11
+
+
+Line: 21 Line Position: 1
+
+
+Line: 21 Line Position: 4
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+
+Invalid Input: The word is not in the file
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+The word us occurs 3 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 13 Line Position: 15
+
+
+Line: 15 Line Position: 12
+
+
+Line: 16 Line Position: 8
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+The word vain occurs 1 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 19 Line Position: 8
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+The word war occurs 2 time(s) in this text file.
+Line number and position of word
+*****************************************
+Line: 4 Line Position: 3
+
+
+Line: 6 Line Position: 5
+
+
+Enter 1 to use the search function again or any other key to exit the program.
+
+Please input the word you would like to search for.
+
+Invalid Input: The word is not in the file
+
+Enter 1 to use the search function again or any other key to exit the program.

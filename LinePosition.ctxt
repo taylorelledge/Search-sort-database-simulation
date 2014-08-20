@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=inLineCount\ inLinePosition
+comment0.target=LinePosition(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LinePosition\r\n
+comment1.params=
+comment1.target=int\ getLineCount()
+comment1.text=\r\n\ getLineCount()\ -\ returns\ member\ variable\ lineCount\ to\ calling\ class.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ int\ lineCount\r\n
+comment2.params=
+comment2.target=int\ getLinePosition()
+comment2.text=\r\n\ getLineCount()\ -\ returns\ member\ variable\ linePosition\ to\ calling\ class.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ int\ linePosition\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Xref(java.io.PrintWriter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Xref\r\n
+comment1.params=
+comment1.target=void\ getInfo()
+comment2.params=
+comment2.target=void\ traverse()
+comment3.params=
+comment3.target=void\ query()
+numComments=4
